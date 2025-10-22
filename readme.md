@@ -11,6 +11,7 @@ O principal objetivo é centralizar o conhecimento adquirido durante a preparaç
 * **MS-900:** Microsoft 365 Fundamentals
 * **AZ-900:** Azure Fundamentals
 * **PL-900:** Power Platform Fundamentals
+* **GH-900:** GitHub Fundamentals
 
 ## 🤝 Contribuição e Dúvidas
 
