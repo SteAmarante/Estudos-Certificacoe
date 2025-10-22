@@ -27,6 +27,8 @@ Caso queira seguir as trilhas de conhecimento oficiais da Microsoft, aqui estão
 * 🔗 **[MS-900: Microsoft 365 Fundamentals](https://learn.microsoft.com/pt-br/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification)**
 * 🔗 **[AZ-900: Azure Fundamentals](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)**
 * 🔗 **[PL-900: Power Platform Fundamentals](https://learn.microsoft.com/pt-br/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification)**
+* 🔗 **[GH-900: GitHub Foundations](https://learn.microsoft.com/pt-br/credentials/certifications/github-foundations/)**  
+
 
 ---
 
