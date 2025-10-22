@@ -40,12 +40,15 @@ Este diretório contém materiais de estudo para a certificação **GH-900: GitH
 
 ## 📂 Organização dos Arquivos
 
-├── README.md 
-├── trilha-aprendizagem.md 
-├── guia-de-estudo.md 
-├── simulados.md 
-├── dicas.md 
+```text
+GH-900-GitHub-Foundations/
+├── README.md
+├── trilha-aprendizagem.md
+├── guia-de-estudo.md
+├── simulados.md
+├── dicas.md
 └── links-uteis.md
+````
 
 ---
 
