@@ -1,4 +1,3 @@
-# 📘 Resumo para Certificação PL-900  
 ## Descrever o valor do negócio do Microsoft Power Platform
 
 O Microsoft Power Platform permite que organizações criem soluções rápidas, automatizem processos e analisem dados sem depender totalmente de desenvolvedores.  
